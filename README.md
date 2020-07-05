@@ -1,12 +1,12 @@
 # BrowserAutomation
 Voice to control all the activities on your browser
 
-#Web Automation
+# Web Automation
 This project is for Web Automation and Desktop Automation.
 Currently the project is functional on Web Automation, the default search is for 'hello world'.
 The project can be accessed by navigation to __/athenaexe/GoogleAccess.py__ and run the code from bottom (function is written).
 
-#Commands for Web Automation
+# Commands for Web Automation
 - open new tab
 - close tab
 - search
