@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="002de238-d7b9-4c49-ba5e-b6a96185fe30" name="Default Changelist" comment="" />
+    <list default="true" id="002de238-d7b9-4c49-ba5e-b6a96185fe30" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/athenaexe/GoogleAccess.py" beforeDir="false" afterPath="$PROJECT_DIR$/athenaexe/GoogleAccess.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/athenaexe/newtabtemp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/athenaexe/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/athenaexe/test2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/athenaexe/webauto/chromedriver_win32/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/athenaexe/webauto/chromedriver_win32/chromedriver.exe" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +21,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1V4L0Q0YnA0rUgEiRdxwdpMA0ia" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,7 +32,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="D:/ProjectREF/face-mask-detector" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -30,7 +40,7 @@
       <recent name="C:\Users\anshu\PycharmProjects\Athena\athenaexe" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.stock">
+  <component name="RunManager" selected="Python.GoogleAccess">
     <configuration name="GoogleAccess" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Athena" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -159,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.GoogleAccess" />
         <item itemvalue="Python.stock" />
         <item itemvalue="Python.tempStokc" />
         <item itemvalue="Python.distance" />
         <item itemvalue="Python.test2 (1)" />
-        <item itemvalue="Python.GoogleAccess" />
       </list>
     </recent_temporary>
   </component>
@@ -193,38 +203,34 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584511632541">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1584511632541" />
-    <state x="574" y="129" key="#com.intellij.ide.util.MemberChooser" timestamp="1580295292159">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="574" y="129" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1580295292159" />
     <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1588853803387">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1588853803387" />
-    <state width="1515" height="285" key="GridCell.Tab.0.bottom" timestamp="1588170293596">
+    <state width="1515" height="201" key="GridCell.Tab.0.bottom" timestamp="1593971699119">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="285" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588170293596" />
-    <state width="1515" height="285" key="GridCell.Tab.0.center" timestamp="1588170293596">
+    <state width="1515" height="201" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593971699119" />
+    <state width="1515" height="201" key="GridCell.Tab.0.center" timestamp="1593971699119">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="285" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588170293596" />
-    <state width="1515" height="285" key="GridCell.Tab.0.left" timestamp="1588170293596">
+    <state width="1515" height="201" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593971699119" />
+    <state width="1515" height="201" key="GridCell.Tab.0.left" timestamp="1593971699119">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="285" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588170293596" />
-    <state width="1515" height="285" key="GridCell.Tab.0.right" timestamp="1588170293596">
+    <state width="1515" height="201" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593971699119" />
+    <state width="1515" height="201" key="GridCell.Tab.0.right" timestamp="1593971699119">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="285" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588170293596" />
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1588853777745">
+    <state width="1515" height="201" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593971699119" />
+    <state x="544" y="81" key="SettingsEditor" timestamp="1593970243856">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1588853777745" />
+    <state x="544" y="81" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1593970243856" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1593969828838">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1593969828838" />
     <state x="567" y="52" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1588167433339">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

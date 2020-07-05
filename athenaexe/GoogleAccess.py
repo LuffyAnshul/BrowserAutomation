@@ -25,8 +25,7 @@ url1 = 'https://www.google.com/search?q='
 
 class GoogleSearch:
 
-    browser = webdriver.Chrome(
-        "C:\\Users\\anshu\\PycharmProjects\\Athena\\athenaexe\\webauto\\chromedriver_win32\\chromedriver.exe")
+    browser = webdriver.Chrome("D:\\MyProjects\\PycharmProjects\\Athena\\athenaexe\\webauto\\chromedriver_win32\\chromedriver.exe")
     max_open = 0
     current_open = 0
 
@@ -106,6 +105,8 @@ class GoogleSearch:
                 except sr.UnknownValueError:
                     print("Could you please repeat.")
             self.browser.get(url1 + find)
+            keyboard.press(Key.tab)
+            keyboard.release(Key.tab)
 
         except sr.WaitTimeoutError:
             print("Wait timeout Error")
