@@ -19,14 +19,14 @@ The project can be accessed by navigation to __/athenaexe/GoogleAccess.py__ and 
 - refresh
 - full screen
 
-Open New Tab - Opens new tab and then you can say the command "search";
-Close Tab - Closes the existing tab.
-Search - Searches a result directly on Google.
-Next Tab - Navigates to the next tab (if available) e.g. if your on 2nd page you jump to 3rd page.
-Previous Tab - Navigates to the previous tab (if available) e.g. if your on 3rd page you jump to 2nd page.
-Reopen Closed Tab - Reopens the closed tab.
-Select - searches for a result on the existing page and open the link related to the same.
-Scroll Up - Scrolls up the screen from bottom to top.
-Scroll Down - Scrolls down the screen from top to bottom.
-Refresh - Refreshes the existing page.
-Full Screen - Enters into full screen mode.
+__Open New Tab__ - Opens new tab and then you can say the command "search";
+__Close Tab__ - Closes the existing tab;
+__Search__ - Searches a result directly on Google.;
+__Next Tab__ - Navigates to the next tab (if available) e.g. if your on 2nd page you jump to 3rd page;
+__Previous Tab__ - Navigates to the previous tab (if available) e.g. if your on 3rd page you jump to 2nd page;
+__Reopen Closed Tab__ - Reopens the closed tab;
+__Select__ - searches for a result on the existing page and open the link related to the same;
+__Scroll Up__ - Scrolls up the screen from bottom to top;
+__Scroll Down__ - Scrolls down the screen from top to bottom;
+__Refresh__ - Refreshes the existing page;
+__Full Screen__ - Enters into full screen mode;
