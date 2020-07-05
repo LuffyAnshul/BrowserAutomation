@@ -19,7 +19,7 @@ The project can be accessed by navigation to __/athenaexe/GoogleAccess.py__ and 
 - refresh
 - full screen
 
-Open New Tab - Opens new tab and then you can say the command "search".
+Open New Tab - Opens new tab and then you can say the command "search";
 Close Tab - Closes the existing tab.
 Search - Searches a result directly on Google.
 Next Tab - Navigates to the next tab (if available) e.g. if your on 2nd page you jump to 3rd page.
